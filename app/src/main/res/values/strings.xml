@@ -2,4 +2,7 @@
     <string name="app_name">Unima ChatApp</string>
     <string name="from">from</string>
     <string name="afrisystems">AFRISYSTEMS</string>
+    <string name="will_send_otp_to_number_provided">Will send OTP to number provided</string>
+    <string name="enter_number_here">Enter number here</string>
+    <string name="send">Send</string>
 </resources>
